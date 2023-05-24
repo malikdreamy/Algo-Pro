@@ -26,9 +26,13 @@ LOGIN PAGE:
 CHALLENGE PAGE:
 On the challenge page inside of the black nav bar you can select which programming language you want the challenge question in, you must select a difficulty level and then finally select which concept you want to b tested in. Once you press the get question button the challenge will be displayed in the white question box. You will then use the code editor at the bottom to type your solution. After typing you will need to press submit your code in order for the AI to check you reponse. It will then respond accordingly. If you do not understand how to solve it you can select the 'Get Solution' button and the solved result will be printed to the code editor. You can then save the question and the solution to your account so you can review it later.
 
+<img width="1492" alt="Screen Shot 2023-05-23 at 6 24 57 PM" src="https://github.com/malikdreamy/Algo-Pro/assets/119153047/c2d2575c-c2b5-4203-a4d4-13e4fc621105">
+
+
 FILES PAGE: 
 Here you can review your saved Algorithm question and solution. You can also download them as .txt file to review them later.
-<img width="1492" alt="Screen Shot 2023-05-23 at 6 24 57 PM" src="https://github.com/heav3n21/ALGO-PRO3/assets/119153047/8100c0a3-52bd-4167-a479-f16c5ad<img width="1494" alt="Screen Shot 2023-05-23 at 6 30 11 PM" src="https://github.com/malikdreamy/Algo-Pro/assets/119153047/5ee1760d-b6c2-47b0-b1da-ac20da604875">
-d097a">
+
+<img width="1494" alt="Screen Shot 2023-05-23 at 6 30 11 PM" src="https://github.com/malikdreamy/Algo-Pro/assets/119153047/1a897966-2d2c-4e7d-8539-42d35b7f9604">
+
 
 
