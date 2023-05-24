@@ -21,7 +21,7 @@ To better prepare myself for interview questions. This allows me to test my skil
 MIT
 
 ## Technologies
-This app was built using React, OPENAI, and TailWind for styling.
+This app was built using React, GraphQL, MongoDB, Express, OPENAI, and TailWind for styling.
 
 
 LOGIN PAGE:
