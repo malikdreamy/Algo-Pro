@@ -25,6 +25,7 @@ This app was built using React, OPENAI, and TailWind for styling.
 
 
 LOGIN PAGE:
+
 Here is where you can login or sign up. An email, username and password is needed.
 <img width="1481" alt="Screen Shot 2023-05-23 at 6 24 15 PM" src="https://github.com/heav3n21/ALGO-PRO3/assets/119153047/4f4fd453-5f77-48c3-b0e6-86fe759da7af">
 
