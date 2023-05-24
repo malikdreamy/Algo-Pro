@@ -25,12 +25,12 @@ This app was built using React, OPENAI, and TailWind for styling.
 
 
 LOGIN PAGE:
-Here is where you can login or sign up. A email, username and password is needed.
+Here is where you can login or sign up. An email, username and password is needed.
 <img width="1481" alt="Screen Shot 2023-05-23 at 6 24 15 PM" src="https://github.com/heav3n21/ALGO-PRO3/assets/119153047/4f4fd453-5f77-48c3-b0e6-86fe759da7af">
 
 CHALLENGE PAGE:
 
-On the challenge page inside of the black nav bar you can select which programming language you want the challenge question in, you must select a difficulty level and then finally select which concept you want to b tested in. Once you press the get question button the challenge will be displayed in the white question box. You will then use the code editor at the bottom to type your solution. After typing you will need to press submit your code in order for the AI to check you reponse. It will then respond accordingly. If you do not understand how to solve it you can select the 'Get Solution' button and the solved result will be printed to the code editor. You can then save the question and the solution to your account so you can review it later.
+On the challenge page inside of the black nav bar you can select which programming language you want the challenge question in, you must select a difficulty level and then finally select which concept you want to be tested in. Once you press the get question button the challenge will be displayed in the white question box. You will then use the code editor at the bottom to type your solution. After typing you will need to press submit your code in order for the AI to check you reponse. It will then respond accordingly. If you do not understand how to solve it you can select the 'Get Solution' button and the solved result will be printed to the code editor. You can then save the question and the solution to your account so you can review it later.
 
 
 <img width="1492" alt="Screen Shot 2023-05-23 at 6 24 57 PM" src="https://github.com/malikdreamy/Algo-Pro/assets/119153047/c2d2575c-c2b5-4203-a4d4-13e4fc621105">
