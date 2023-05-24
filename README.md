@@ -20,7 +20,7 @@ To better prepare myself for interview questions. This allows me to test my skil
 ## License
 MIT
 
-##Technologies
+## Technologies
 This app was built using React, OPENAI, and TailWind for styling.
 
 
