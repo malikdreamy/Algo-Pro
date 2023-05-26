@@ -7,7 +7,7 @@ An advanced AI powered programming Algorithm Challenger. On the challenge page y
 
 ## Installation
 
-Go to www.example.com and sign up. After signing up go to the challenge page and pick out your questions. This can also be downloaded to your desktop as a PWA by pressing the download button in the top right hand address bar. This is also installable as an Android or iPhone app.
+Go to (https://algo-pro-new-update.herokuapp.com/) and sign up. After signing up go to the challenge page and pick out your questions. This can also be downloaded to your desktop as a PWA by pressing the download button in the top right hand address bar. This is also installable as an Android or iPhone app.
 
 ## Usage
 
